@@ -17,7 +17,7 @@ img[alt="logo"] {
 }
 
 .hero{
-  height: 80vh;
+  height: 85vh;
   background-image: url("./images/hero.svg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -56,3 +56,13 @@ img[alt="logo"] {
 }
 
 
+.benefits-container{
+  height: 100vh;
+  background-image: url("./images/benefits2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card {
+  background-color: hsla(180, 20%, 93%, 0.7) !important;
+}

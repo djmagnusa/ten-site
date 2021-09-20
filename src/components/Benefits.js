@@ -6,6 +6,7 @@ import curriculum from '../images/curriculum.svg';
 const Benefits = () => {
     return (
         <div className="container-fluid benefits-container">
+                <h1><u>Benefits</u></h1>
                 <div className="d-flex">
                     <div className="row pt-5 px-5 justify-content-between">
                         <div className="col-lg-3 card">

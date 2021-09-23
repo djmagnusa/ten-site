@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from './Footer'
 
 const Contact = () => {
     return (
@@ -22,7 +23,10 @@ const Contact = () => {
                 <button type="submit" className="submit"><i className="far fa-paper-plane"></i>Send</button>
             </div>
             </form>
+            
         </div>
+
+        <Footer />
         
      </div>
     )
